@@ -23,5 +23,5 @@ Moment 3
 
 Useful Documenation:
 
-Generative AI Documentation - https://openrouter.ai/models/google/gemini-flash-1.5
+Generative AI Documentation - https://openrouter.ai/models/google/gemini-flash-1.5/api
 
