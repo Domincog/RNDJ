@@ -3,7 +3,11 @@ from ai import *
 #def ask_sys(info, instructions)
 
 
-response = ask_sys("An AI engine will analyze the submitted feedback, categorizing it by topics such as environmental impact, safety concerns, or community disruption. This analysis will be shared with policymakers and project leaders in real-time, ensuring that the feedback is considered in decision-making processes.", "Explain why this is important in one sentence")
+
+#break csv into groups, summarize those groups, and then summarize that summary?
+
+
+response = ask_sys("who are you?","describe what this is asking")
 
 print(response)
 
