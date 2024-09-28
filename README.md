@@ -18,3 +18,10 @@ Moment 3
 
 - [ ] Task 1
 - [ ] Task 2
+
+
+
+Useful Documenation:
+
+Generative AI Documentation - https://openrouter.ai/models/google/gemini-flash-1.5
+
