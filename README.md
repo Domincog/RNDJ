@@ -1,4 +1,4 @@
-#RNDJ
+# RNDJ
 
 ## Inspiration
 We know that there are many in the community that have input to give, but need a way for their voices to be heard more efficiently and without bias. Our inspiration is to make sure all voices are heard.
