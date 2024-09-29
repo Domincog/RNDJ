@@ -4,7 +4,7 @@ from os import getenv
 # gets API Key from environment variable OPENAI_API_KEY
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+  api_key="", #Add API key here
 )
 
 
